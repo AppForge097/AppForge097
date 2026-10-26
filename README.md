@@ -88,6 +88,13 @@ My interests span the full development cycle: designing responsive user interfac
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
+### Visual & Interactive Web
+<p>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
+
 ### Tools & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -97,31 +104,35 @@ My interests span the full development cycle: designing responsive user interfac
   <img src="https://img.shields.io/badge/AI_Integrations-6E40C9?style=for-the-badge" alt="AI Integrations" />
 </p>
 
+### Engineering Practices
+
+Responsive Design · REST API Integration · Authentication · Database Design · Clean Architecture · AI Integrations
+
 ## 🌟 Featured Projects
 
 <table>
   <tr>
     <td valign="top" width="50%">
       <h3>🛍️ <a href="https://github.com/AppForge097/MyStore">MyStore</a></h3>
-      <p>A Django e-commerce project for product browsing and store management.</p>
-      <sub>Python · Django · Web Development</sub>
+      <p>A database-backed online store with product management and server-rendered pages.</p>
+      <sub>Python · Django · SQLite · HTML · CSS</sub>
     </td>
     <td valign="top" width="50%">
       <h3>🔳 <a href="https://github.com/AppForge097/qr-code-generator">QR Code Generator</a></h3>
-      <p>A Python utility for generating QR codes from text and links.</p>
-      <sub>Python · Utilities</sub>
+      <p>Creates QR code PNG images from text or URLs, ready to save and share.</p>
+      <sub>Python · qrcode · Pillow</sub>
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
       <h3>🧮 <a href="https://github.com/AppForge097/python-calculator">Python Calculator</a></h3>
-      <p>A lightweight calculator project demonstrating core Python concepts.</p>
-      <sub>Python · CLI</sub>
+      <p>A command-line calculator for basic arithmetic, focused on clear control flow and input handling.</p>
+      <sub>Python · CLI · Programming Fundamentals</sub>
     </td>
     <td valign="top" width="50%">
       <h3>🚚 <a href="https://github.com/AppForge097/m-one-logistics-privacy">M ONE Logistics</a></h3>
-      <p>Privacy-policy page for a logistics application.</p>
-      <sub>Product Support · Documentation</sub>
+      <p>Public-facing privacy policy documentation for a logistics application.</p>
+      <sub>Documentation · Privacy</sub>
     </td>
   </tr>
 </table>
@@ -136,6 +147,24 @@ My interests span the full development cycle: designing responsive user interfac
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AppForge097&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AppForge097&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AppForge097&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub profile trophies" />
+</p>
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AppForge097/AppForge097/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AppForge097/AppForge097/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/AppForge097/AppForge097/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> The snake animation is generated automatically by GitHub Actions. It may take one successful workflow run to appear.
 
 ## 🤝 Connect With Me
 
