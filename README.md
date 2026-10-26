@@ -141,8 +141,8 @@ My interests span the full development cycle: designing responsive user interfac
 
 <p align="center">
   <a href="https://valijonov097.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C4CE8?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://t.me/wr091"><img src="https://img.shields.io/badge/Telegram-%40wr091-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://instagram.com/valijonov_57"><img src="https://img.shields.io/badge/Instagram-%40valijonov__57-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://t.me/wr091"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://instagram.com/valijonov_57"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:valijonov804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
